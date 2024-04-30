@@ -1,0 +1,14 @@
+
+h1.dec-title {
+    font-size: 20px;
+    color: #333333;
+    line-height: 1.5;
+}
+
+ol.ol-list {
+    color: #4682BE;
+    line-height: 1.8;
+    font-size: 18px;
+    padding: 16px 16px 16px 40px;
+    border: 1px solid #ddddff;
+}
